@@ -1,0 +1,99 @@
+{
+  "configVersion": 1,
+  "timestamp": 1732732809928,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.71907ed88b4ca79e.js",
+        "/manifest.webmanifest",
+        "/polyfills.d966b6fe21adf9ea.js",
+        "/runtime.95711660b525e1e1.js",
+        "/styles.14c834b7da6c5514.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/imagenes/MapaSitio.png",
+        "/assets/imagenes/error.png",
+        "/assets/imagenes/img1.jpg",
+        "/assets/imagenes/img2.jpg",
+        "/assets/imagenes/img3.jpg",
+        "/assets/imagenes/logo.jpg",
+        "/assets/imagenes/logo.svg",
+        "/assets/imagenes/logo3.png",
+        "/assets/imagenes/mapasSitio.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/imagenes/MapaSitio.png": "68ebb492f65afba4f9148507452b03067f11b338",
+    "/assets/imagenes/error.png": "6f416f44d1adec38e6922d3ce997f6b5d74ddbc5",
+    "/assets/imagenes/img1.jpg": "cdf7ade941f4aff918e5e6830dc459e9bc7b18d9",
+    "/assets/imagenes/img2.jpg": "3b10deeb618c5e72d6eef1d69887ca6e485c3e8d",
+    "/assets/imagenes/img3.jpg": "5a75486ce892ebbdc2fa0de03773d3fc6b6c7198",
+    "/assets/imagenes/logo.jpg": "5af35eff44823a6cb3c32cea6ee259cc1bebb730",
+    "/assets/imagenes/logo.svg": "f0e1a63d8fd4fe6d1fdd609289e37dc0f9f9d537",
+    "/assets/imagenes/logo3.png": "841e492d6fcc7675466015c8ef3f82bdd256fd4c",
+    "/assets/imagenes/mapasSitio.png": "5108bb1e1990c477593556b067f08500ff52d521",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "08987c4d3743ba2976d6c7b3ced47c7d0767a0b7",
+    "/main.71907ed88b4ca79e.js": "05662ad2337912808a73af6bf366809f80957fd8",
+    "/manifest.webmanifest": "bed9180f051a2b4f961919769db9d587e731fe92",
+    "/polyfills.d966b6fe21adf9ea.js": "69cad53689f2c3cbd95e5aca52f4fb8483f22c6e",
+    "/runtime.95711660b525e1e1.js": "9026a8c6115c409207c0ba557e110254ed0c3caf",
+    "/styles.14c834b7da6c5514.css": "de892427b010797db7697b39bd60e2d8a25c89bf"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
